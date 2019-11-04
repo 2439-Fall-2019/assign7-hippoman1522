@@ -1,0 +1,23 @@
+/* Randall Mowen
+    Mowen_a2.css
+    INFO2439
+    Thoendel
+    9/14/19
+*/
+
+body {
+    background-color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.top-header {
+    text-align: center;
+}
+
+.ui-content {
+    list-style-type: none;
+} 
+

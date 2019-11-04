@@ -1,0 +1,23 @@
+/* Randall Mowen
+    Mowen_a3.css
+    INFO2439
+    Thoendel
+    9/28/19
+*/
+
+body {
+    background-color: white;
+    font-family: 'Mansalva', cursive;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.top-header {
+    text-align: center;
+}
+
+.ui-content {
+    list-style-type: none;
+}  
